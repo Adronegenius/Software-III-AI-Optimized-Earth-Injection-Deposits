@@ -1,0 +1,1 @@
+<INSERT setup.py CONTENT HERE>
